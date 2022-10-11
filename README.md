@@ -1,6 +1,8 @@
 ### Hi 👋 I'm Emerson cardona From Guatemala 
 
-https://img.shields.io/badge/https://www.linkedin.com/in/emerson-cardona-electronic-systems/?style=for-the-badge&logo=linkedin&logoColor=white
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 <!--
 **emersongcardona/emersongcardona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
