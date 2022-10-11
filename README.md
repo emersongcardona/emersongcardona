@@ -1,21 +1,17 @@
-## Hi 👋 I'm Emerson cardona From Guatemala 
-### Electronics engineer with a passion for automation, IoT and application backend projects in the different areas of hardware, firmware, software to facilitate and drive growth in the industry.
+<h1 align="center">Hi 👋, I'm Emerson Cardona</h1>
+<h3 align="center">Electronics engineer with a passion for automation, IoT, embebed systems, mechanical design and backend aplications</h3>
 
-![linkedin button>](https://www.linkedin.com/in/emerson-cardona-electronic-systems/?style=for-the-badge&logo=linkedin&logoColor=white)
+- 🔭 I’m currently working on [raven project](https://raven.gt/)
 
-![<linkedin>](https://www.linkedin.com/in/emerson-cardona-electronic-systems/?style=for-the-badge&logo=linkedin&logoColor=white)
+- 🌱 I’m currently learning **ruby on rails and node js**
 
-<!--
-**emersongcardona/emersongcardona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on **backend projects**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emerson-cardona-electronic-systems/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emerson-cardona-electronic-systems/" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
+
