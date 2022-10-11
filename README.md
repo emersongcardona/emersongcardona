@@ -1,7 +1,9 @@
 ### Hi 👋 I'm Emerson cardona From Guatemala 
-
+##Ingeniero en electrónica con pasión en los proyectos de automatización, IoT y backend de aplicaciones en las distintas areas hardware, firmware, software para facilitar e impulsar el crecimiento en la industria.
+Emprendedor, autodidacta y entusiasta tecnologico.
 
 ![linkedin button>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 <!--
