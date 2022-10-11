@@ -3,7 +3,7 @@
 
 ![linkedin button>](https://www.linkedin.com/in/emerson-cardona-electronic-systems/?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
+![<linkedin>](https://www.linkedin.com/in/emerson-cardona-electronic-systems/<Badge Text>-<Background Color>?style=for-the-badge&logo=<linkedin>&logoColor=<Logo Color>)
 
 <!--
 **emersongcardona/emersongcardona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
