@@ -1,7 +1,7 @@
-### Hi 👋 I'm Emerson cardona From Guatemala 
-## Electronics engineer with a passion for automation, IoT and application backend projects in the different areas of hardware, firmware, software to facilitate and drive growth in the industry.
+## Hi 👋 I'm Emerson cardona From Guatemala 
+### Electronics engineer with a passion for automation, IoT and application backend projects in the different areas of hardware, firmware, software to facilitate and drive growth in the industry.
 
-![linkedin button>](https://www.linkedin.com/in/emerson-cardona-electronic-systems/style=for-the-badge&logo=linkedin&logoColor=white)
+![linkedin button>](https://www.linkedin.com/in/emerson-cardona-electronic-systems/?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
