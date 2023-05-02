@@ -19,9 +19,8 @@
 <a href="https://www.altium.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="arduino" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersongcardona&theme=tokyonight&langs_count=8&include_all_commits=true)
-  
-https://api.github.com/users/emersongcardona/repos?access_token="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"
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersongcardona&theme=tokyonight&langs_count=8&include_all_commits=true&access_token=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
+ 
 
 
 
