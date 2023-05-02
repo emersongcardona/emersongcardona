@@ -19,5 +19,6 @@
 <a href="https://www.altium.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="arduino" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersongcardona&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersongcardona&theme=tokyonight&langs_count=8)
+
 
