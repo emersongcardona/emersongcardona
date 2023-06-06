@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson Cardona</h1>
 <h3 align="center">Electronics engineer with a passion for automation, IoT, embebed systems, mechanical design and backend aplications</h3>
 
-- 🔭 I’m currently working on [raven project](https://raven.gt/)
+- 🔭 I’m currently working on [Omnio project](https://omnio.lomaxcloud.com/)
 
 - 🌱 I’m currently learning **ruby on rails and node js**
 
