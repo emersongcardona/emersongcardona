@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Omnio project](https://omnio.lomaxcloud.com/)
 
-- 🌱 I’m currently learning **ruby on rails and node js**
+- 🌱 I’m currently learning **AWS and vuejs**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
