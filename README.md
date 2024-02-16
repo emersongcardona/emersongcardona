@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emerson Cardona</h1>
-<h3 align="center">Electronics engineer with a passion for automation, IoT, embebed systems, mechanical design and backend aplications</h3>
+<h3 align="center">Web developer with over 3 years of experience in developing various projects, from conceptualization to implementation, resulting in systems that helps many users</h3>
 
 - 🔭 I’m currently working on [Omnio project](https://omnio.lomaxcloud.com/)
 
 - 🌱 I’m currently learning **AWS and vuejs**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **backend projects*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
