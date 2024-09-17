@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emerson Cardona</h1>
-<h3 align="center">Web developer with over 3 years of experience in developing various projects, from conceptualization to implementation, resulting in systems that helps many users</h3>
+<h3 align="center">Web developer with over 5 years of experience in developing various projects, from conceptualization to implementation, resulting in systems that helps many users</h3>
 
 - 🔭 I'm currently working on artificial vision projects 
 
